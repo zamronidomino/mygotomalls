@@ -1,0 +1,6 @@
+{
+  "name": "gotomalls-star",
+  "dependencies": {
+    "materialize-css": "^0.98.2"
+  }
+}
