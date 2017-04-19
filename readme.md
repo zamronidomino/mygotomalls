@@ -1,7 +1,7 @@
 My Gotomalls
 ------------
 
-This is repository is project submission for Gotomalls Hackathon 20017 event
+Project submission for Gotomalls Hackathon 20017 event
 
 Requirement
 -----------
